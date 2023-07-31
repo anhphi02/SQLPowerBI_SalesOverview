@@ -3,6 +3,7 @@
 This project includes four main steps:
 
 **1. Understand Business Requests & Planning**
+
 **Business Demand Overview**
 - Reporter: Steven - Sales Manager 
 - Value: Visual Dashboards and improved Sales reporting or follow up for salesforce
